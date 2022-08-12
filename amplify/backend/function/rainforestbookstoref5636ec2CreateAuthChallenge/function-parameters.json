@@ -1,0 +1,17 @@
+{
+  "trigger": true,
+  "modules": [
+    "captcha-create-challenge"
+  ],
+  "parentResource": "rainforestbookstoref5636ec2",
+  "functionName": "rainforestbookstoref5636ec2CreateAuthChallenge",
+  "resourceName": "rainforestbookstoref5636ec2CreateAuthChallenge",
+  "parentStack": "auth",
+  "triggerEnvs": [],
+  "triggerDir": "/snapshot/repo/build/node_modules/@aws-amplify/amplify-category-auth/provider-utils/awscloudformation/triggers/CreateAuthChallenge",
+  "triggerTemplate": "CreateAuthChallenge.json.ejs",
+  "triggerEventPath": "CreateAuthChallenge.event.json",
+  "roleName": "rainforestbookstoref5636ec2CreateAuthChallenge",
+  "skipEdit": true,
+  "enableCors": false
+}

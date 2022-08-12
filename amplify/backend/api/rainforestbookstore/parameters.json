@@ -1,0 +1,11 @@
+{
+  "AppSyncApiName": "rainforestbookstore",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false,
+  "AuthCognitoUserPoolId": {
+    "Fn::GetAtt": [
+      "authrainforestbookstoref5636ec2",
+      "Outputs.UserPoolId"
+    ]
+  }
+}

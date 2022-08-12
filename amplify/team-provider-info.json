@@ -13,16 +13,31 @@
     },
     "categories": {
       "auth": {
-        "rainforestbookstore786a5742": {}
+        "rainforestbookstore786a5742": {},
+        "rainforestbookstore0ff8afeb": {},
+        "rainforestbookstoref5636ec2": {}
       },
       "function": {
         "createOrder": {
           "deploymentBucketName": "amplify-rainforestbookstore-prod-140837-deployment",
-          "s3Key": "amplify-builds/createOrder-44735a68706d686a3454-build.zip"
+          "s3Key": "amplify-builds/createOrder-386d704d4a514a653550-build.zip"
         },
         "processPayment": {
           "deploymentBucketName": "amplify-rainforestbookstore-prod-140837-deployment",
-          "s3Key": "amplify-builds/processPayment-57486f59674e61717054-build.zip"
+          "s3Key": "amplify-builds/processPayment-6632794c416e344e5a44-build.zip"
+        },
+        "rainforestbookstoref5636ec2DefineAuthChallenge": {
+          "deploymentBucketName": "amplify-rainforestbookstore-prod-140837-deployment",
+          "s3Key": "amplify-builds/rainforestbookstoref5636ec2DefineAuthChallenge-593477427a7177687654-build.zip"
+        },
+        "rainforestbookstoref5636ec2CreateAuthChallenge": {
+          "deploymentBucketName": "amplify-rainforestbookstore-prod-140837-deployment",
+          "s3Key": "amplify-builds/rainforestbookstoref5636ec2CreateAuthChallenge-6f466831767a77564576-build.zip"
+        },
+        "rainforestbookstoref5636ec2VerifyAuthChallengeResponse": {
+          "RECAPTCHASECRET": "",
+          "deploymentBucketName": "amplify-rainforestbookstore-prod-140837-deployment",
+          "s3Key": "amplify-builds/rainforestbookstoref5636ec2VerifyAuthChallengeResponse-634443345a745a474156-build.zip"
         }
       }
     }
