@@ -3,9 +3,9 @@ const { v4: uuidv4 } = require("uuid");
 const AWS = require("aws-sdk");
 const documentClient = new AWS.DynamoDB.DocumentClient();
 
-const ORDER_TABLE = "<order_table_name>";
+const ORDER_TABLE = "Order-kxqgbbe53zgufc6zcochm32sj4-prod";
 const ORDER_TYPE = "Order";
-const BOOK_ORDER_TABLE = "<book_order_table_name>"
+const BOOK_ORDER_TABLE = "BookOrder-kxqgbbe53zgufc6zcochm32sj4-prod"
 const BOOK_ORDER_TYPE = "BookOrder";
 
 const createOrder = async (payload) => {

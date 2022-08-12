@@ -20,11 +20,11 @@
       "function": {
         "createOrder": {
           "deploymentBucketName": "amplify-rainforestbookstore-prod-140837-deployment",
-          "s3Key": "amplify-builds/createOrder-386d704d4a514a653550-build.zip"
+          "s3Key": "amplify-builds/createOrder-645641444f5a37347573-build.zip"
         },
         "processPayment": {
           "deploymentBucketName": "amplify-rainforestbookstore-prod-140837-deployment",
-          "s3Key": "amplify-builds/processPayment-6632794c416e344e5a44-build.zip"
+          "s3Key": "amplify-builds/processPayment-443467384d6b41425945-build.zip"
         },
         "rainforestbookstoref5636ec2DefineAuthChallenge": {
           "deploymentBucketName": "amplify-rainforestbookstore-prod-140837-deployment",
