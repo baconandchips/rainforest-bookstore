@@ -1,4 +1,3 @@
-createorder
 const { v4: uuidv4 } = require("uuid");
 const AWS = require("aws-sdk");
 const documentClient = new AWS.DynamoDB.DocumentClient();
@@ -28,7 +27,7 @@ const createOrder = async (payload) => {
 
 const createBookOrder = async (payload) => {
     let bookOrders = [];
-    for (i = 0; i < payload.cart.length; i++) {
+    for (let i = 0; i < payload.cart.length; i++) {
         const cartItem = payload.cart[i];
         bookOrders.push({
             PutRequest: {

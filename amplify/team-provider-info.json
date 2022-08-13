@@ -15,12 +15,13 @@
       "auth": {
         "rainforestbookstore786a5742": {},
         "rainforestbookstore0ff8afeb": {},
-        "rainforestbookstoref5636ec2": {}
+        "rainforestbookstoref5636ec2": {},
+        "true": {}
       },
       "function": {
         "createOrder": {
           "deploymentBucketName": "amplify-rainforestbookstore-prod-140837-deployment",
-          "s3Key": "amplify-builds/createOrder-645641444f5a37347573-build.zip"
+          "s3Key": "amplify-builds/createOrder-44546458644558427336-build.zip"
         },
         "processPayment": {
           "deploymentBucketName": "amplify-rainforestbookstore-prod-140837-deployment",
