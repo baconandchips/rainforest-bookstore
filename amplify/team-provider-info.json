@@ -25,7 +25,7 @@
         },
         "processPayment": {
           "deploymentBucketName": "amplify-rainforestbookstore-prod-140837-deployment",
-          "s3Key": "amplify-builds/processPayment-443467384d6b41425945-build.zip"
+          "s3Key": "amplify-builds/processPayment-2b714b33623543554a38-build.zip"
         },
         "rainforestbookstoref5636ec2DefineAuthChallenge": {
           "deploymentBucketName": "amplify-rainforestbookstore-prod-140837-deployment",
