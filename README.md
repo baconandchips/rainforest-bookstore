@@ -1,6 +1,6 @@
 # Rainforest Bookstore
 
-Website link: [Click here](http://rainforestbookstore-20220813105030-hostingbucket-prod.s3-website-us-west-2.amazonaws.com/)!
+Website link: 🎉 [Click here!](http://rainforestbookstore-20220813105030-hostingbucket-prod.s3-website-us-west-2.amazonaws.com/) 🎉
 
 An E-Commerce webapp designed with React, AWS S3, DynamoDB, GraphQL, and StripeJS API. Web hosting done on S3. Admin users can create, update, and delete books for sale. Guests can view books, and on login, can buy books as well. Payments handled with Stripe API.
 
